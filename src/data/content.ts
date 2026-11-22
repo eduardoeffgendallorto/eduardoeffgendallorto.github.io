@@ -145,7 +145,7 @@ export const content = {
     hours: { pt: "h", en: "h" },
     newTab: { pt: "abre em nova aba", en: "opens in a new tab" },
     education: [
-      { period: { pt: "cursando · 2º período · matutino", en: "in progress · 2nd semester · morning" }, title: { pt: "Engenharia de Software", en: "Software Engineering" }, place: "UVV (Universidade de Vila Velha)" },
+     { period: { pt: "cursando · 3º período · matutino", en: "in progress · 3rd semester · morning" }, title: { pt: "Engenharia de Software", en: "Software Engineering" }, place: "UVV (Universidade de Vila Velha)" },
       { period: { pt: "jan/2023 – dez/2025 · concluído", en: "Jan 2023 – Dec 2025 · completed" }, title: { pt: "Técnico em Administração", en: "Business Administration Technician" }, place: "" },
     ] as { period: T; title: T; place: string }[],
   },
