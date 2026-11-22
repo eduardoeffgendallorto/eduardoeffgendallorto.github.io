@@ -1,26 +1,10 @@
-# Pixel Perfect Replay
+# Portfólio | Eduardo Effgen Dall'Orto
 
-Implement exactly the screenshot and nothing else
+Site pessoal feito com React, TypeScript, TanStack Start, Tailwind CSS e GSAP.
 
-This project was built with [Lovable](https://lovable.dev).
-
-**Live app**: https://pixel-perfect-replay-72887.lovable.app
-
-## Build with Lovable
-
-Continue developing this project in the [Lovable editor](https://lovable.dev/projects/0422d177-009b-435c-b1f2-f28a15a89e1b).
-
-- **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: every change made in Lovable is committed straight to this repository.
-- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
-
-## Development
-
-Prefer working locally? You need Node.js and npm — [install with nvm](https://github.com/nvm-sh/nvm#installing-and-updating).
-
-```sh
-git clone <this-repository-url>
-cd <repository-name>
-npm i
+## Rodar localmente
+npm install
 npm run dev
-```
+
+## Build estático (saída em dist/client)
+npm run build
